@@ -1,0 +1,132 @@
+<html>
+
+<head>
+  <title>ACE 2005 English SpatialML Annotations</title>
+  <meta name="description" content="Documentation for ACE 2005 English SpatialML Annotations">
+  <meta name="keywords" content="Linguistic Data Consortium LDC Documentation for ACE 2005 English SpatialML Annotations">
+</head>
+
+<body bgcolor="#ffffff" LINK="#990000" ALINK="#990000" VLINK="#990000" TEXT="#000000" >
+
+    <h1 align="center"><font color="#990000">
+        ACE 2005 English SpatialML Annotations
+    </font></h1>
+
+    <br>
+
+    <h3>Introduction</h3> 
+
+    
+<p>This file contains documentation for ACE 2005 English SpatialML Annotations, 
+  Linguistic Data Consortium (LDC) catalog number LDC2008T03 and isbn 1-58563-458-1.</p>
+
+    
+<p>The ACE (Automatic Contact Extraction) program focuses on developing automatic 
+content extraction technology to support automatic processing of human language 
+in text form. The kind of information recognized and extracted from text includes 
+entities, values, temporal expressions, relations and events. SpatialML is a mark-up 
+language for representing spatial expressions in natural language documents. SpatialML's 
+focus is primarily on geography and culturally-relevant landmarks, rather than 
+biology, cosmology, geology, or other regions of the spatial language domain. 
+The goal is to allow for potentially better integration of text collections with 
+resources such as databases that provide spatial information about a domain, including 
+gazetteers, physical feature databases and mapping services. In ACE 2005 English 
+SpatialML Annotations, the authors applied SpatialML tags to the English training 
+data (originally annotated for entities, relations and events) in <a href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2006T06">ACE 
+2005 Multilingual Training Corpus, LDC2006T06.</a></p> 
+<p>The SpatialML annotation scheme is intended to emulate earlier progress on 
+  time expressions such as <a href="http://fofoca.mitre.org/">TIMEX2</a>, <a href="http://www.timeml.org/site/">TimeML</a> 
+  and the <a href="http://www.nist.gov/speech/tests/ace/2005/doc/ace05eval_official_results_20060110.html">2005 
+  ACE guidelines</a>. </p>
+<p>The main SpatialML tag is the PLACE tag. The central goal of SpatialML is to 
+  map PLACE information in text to data from gazetteers and other databases to 
+  the extent possible. Therefore, semantic attributes such as country abbreviations, 
+  country subdivision and dependent area abbreviations (e.g., US states), and 
+  geo-coordinates are used to help establish such a mapping. LINK and PATH tags 
+  express relations between places, such as inclusion relations and trajectories 
+  of various kinds. Information in the tag along with the tagged location string 
+  should be sufficient to uniquely determine the mapping, when such a mapping 
+  is possible. This also means that redundant information is not included in the 
+  tag.</p>
+<p>To the extent possible, SpatialML leverages ISO and other standards towards 
+  the goal of making the scheme compatible with existing and future corpora. The 
+  SpatialML guidelines are compatible with existing guidelines for spatial annotation 
+  and existing corpora within the ACE research program. In particular, the English 
+  Annotation Guidelines for Entities (Version 5.6.6 2006.08.01) were exploited, 
+  specifically the GPE, Location, and Facility entity tags, and the Physical relation 
+  tags, all of which are mapped to SpatialML tags. Ideas were also borrowed from 
+  Toponym Resolution Markup Language of Leidner (2006), the research of Schilder 
+  et al. (2004) and the annotation scheme in Garbin and Mani (2005). Information 
+  recorded in the annotation is compatible with the feature types in the Alexandria 
+  Digital Library. This corpus also leverages the integrated gazetteer database 
+  (IGDB) of Mardis and Burger (2005). Last but not least, this annotation scheme 
+  can be related to the Geography Markup Language (GML) defined by the Open Geospatial 
+  Consortium (OGC), as well as Google Earth's Keyhole Markup Language (KML), to 
+  express geographical features.</p>
+  
+	<p>SpatialML goes beyond these schemes, however, in terms of providing a richer 
+  markup for natural language that includes semantic features and relationships 
+  that allow mapping to existing resources such as gazetteers. Such a markup can 
+  be useful for (i) disambiguation, (ii) integration with mapping services, and 
+  (iii) spatial reasoning. In relation to (iii), it is possible to use spatial 
+  reasoning not only for integration with applications, but for better information 
+  extraction, e.g., for disambiguating a place name based on the locations of 
+  other place names in the document. SpatialML goes to some length to represent 
+  topological relationships among places, derived from the RCC8 Calculus (Randell 
+  et al. 1992, Cohn et al. 1997). </p>
+<p>Addtional information about SpatialML is contained in the paper &quot;SpatialML: 
+  Annotation Scheme for Marking Spatial Expressions in Natural Lanugage,&quot; 
+  which is included in the online documentation for this corpus.</p>
+
+<p>Please direct all questions about this corpus to Janet Hitzeman (<a href="mailto:hitz@mitre.org">hitz@mitre.org</a>) 
+</p>
+
+<h3>Data</h3>
+
+    <p>Please see <a href="docs/file.tbl"
+    style="text-decoration:none">file.tbl</a> for the directory structure of
+    this publication, as well as a complete list of files.
+
+    <p>Please go to <a href="data/"
+    style="text-decoration:none">data</a> for a listing of data files.</p>
+
+    <p>Other documentation files are:
+    <ul>
+         <li><a href="docs/ldc_wordcount.csv" STYLE="text-decoration:none">ldc_wordcount.csv</a></li>
+	 <li><a href="docs/SpatialML-2.0.doc" STYLE="text-decoration:none">SpatialML-2.0.doc</a></li>
+	 
+    </ul>
+
+
+
+    <h3>Updates</h3>   
+
+    
+<p>Additional information, updates, bug fixes may be available in the LDC catalog 
+  entry for this corpus at <a
+    href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2007T39"
+    style="text-decoration:none">LDC2008T03</a>. 
+<h3>Content Copyright</h3>   
+    
+<p>Portions &copy; 2003 Agence France-Presse, &copy; 2003 The Associated Press, 
+  &copy; 2003 Cable News Network, LP, LLLP, &copy; 2007 The MITRE Corporation, 
+  &copy; 2003 New York Times, &copy; 2003 Xinhua News Agency, &copy; 2005, 2006, 
+  2008 Trustees of the University of Pennsylvania
+<hr>
+
+    <font size="-1">
+    Contact: <a href="mailto:ldc@ldc.upenn.edu" style="text-decoration:none">
+
+    <b>ldc@ldc.upenn.edu</b></a><br> &copy; 2007 <A
+    HREF="http://www.ldc.upenn.edu" STYLE="text-decoration:none">
+
+    <b>Linguistic Data Consortium</b></a>,
+    <a href="http://www.upenn.edu" style="text-decoration:none">
+
+    <b>Trustees of the University of Pennsylvania</b></a>. All Rights Reserved.
+    </font>
+
+</body>
+
+</html>
+

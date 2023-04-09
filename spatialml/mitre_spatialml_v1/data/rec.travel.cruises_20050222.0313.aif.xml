@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE Corpus SYSTEM "http://www.nist.gov/speech/atlas/aif.dtd">
+
+<Corpus xmlns="http://www.nist.gov/speech/atlas" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://www.ukoln.ac.uk/interop-focus/activities/z3950/int_profile/bath/draft/stable1.html" id="Cor2" AIFVersion="1.1" type="spatialml" schemeLocation="http://callisto.mitre.org/maia/spatialml.maia.xml">
+  <Metadata/>
+  <SimpleSignal id="Sig2" type="text" mimeClass="text" mimeType="sgml" xlink:href="rec.travel.cruises_20050222.0313.aif.xml.sgm.sgml" encoding="UTF-8" track="ALL" xlink:type="simple">
+    <body encoding="Base64">PERPQz4NCg0KIHJlYy50cmF2ZWwuY3J1aXNlc18yMDA1MDIyMi4wMzEzIA0KIFdFQiBURVhUIA0KIDIwMDUtMDItMjJUMDM6MTM6MDAgDQoNCg0KQ2Fybml2YWwgQ29ycCAtIFNoYXJlaG9sZGVyIERpc2NvdW50IG9uIFByaW5jZXNzDQoNCjxURVhUPg0KDQoNCiBTdGVwaGVuTSANCiBUdWUsIDIyIEZlYiAyMDA1IDA4OjEzOjEzIEdNVCANCiBDYXJuaXZhbCBDb3JwIC0gU2hhcmVob2xkZXIgRGlzY291bnQgb24gUHJpbmNlc3MgDQoNCkknbSB0YWtpbmcgYSA3IGRheSBjcnVpc2Ugd2l0aCBQcmluY2VzcyBpbiBNYXJjaCBhbmQgYXBwbGllZCBmb3IgbXkgJDEwMA0KQ2Fybml2YWwgQ29ycC4gU2hhcmVob2xkZXIgb25ib2FyZCBjcmVkaXQuDQoNClR1cm5zIG91dCB0aGF0IG15IHRyYXZlbCBBZ2VudCBoYXMgYSAnZ3JvdXAnIGNydWlzZSBvbiB0aGlzIHNoaXAgYW5kIG15DQokNTAvcHAgY3JlZGl0IGR1ZSB0byB0aGUgJ2dyb3VwJyBjcnVpc2UgbWFrZXMgbWUgaW5lbGlnaWJsZSBmb3IgdGhlDQpzaGFyZWhvbGRlciBjcmVkaXQuIFRoaXMgcmVhbGx5IG1ha2VzIGEgbW9ja2VyeSBvZiB0aGUgU2hhcmVob2xkZXIgY3JlZGl0DQphcyBhbG1vc3QgZXZlcnkgY3J1aXNlIGhhcyBzb21lIHNvcnQgb2Ygc21hbGwgY3JlZGl0IGF0dGFjaGVkLg0KDQokMTAwIHdvbid0IGJyZWFrIHRoZSBiYW5rIG9yIG1ha2UgdGhlIGNydWlzZSBsZXNzIGVuam95YWJsZSwgbm9yIHdpbGwgSSBzdG9wDQpiZWluZyBhIHNoYXJlaG9sZGVyLCBidXQgSSBkbyBmaW5kIHRoaXMgc29ydCBvZiB0aGluZyBpcnJpdGF0aW5nLg0KDQpTdGVwaGVuDQoNCg0KDQogR2VvcmdlIExlcHBsYSANCiBUdWUsIDIyIEZlYiAyMDA1IDA4OjA0OjA3IC0wNTAwIA0KIFJlOiBDYXJuaXZhbCBDb3JwIC0gU2hhcmVob2xkZXIgRGlzY291bnQgb24gUHJpbmNlc3MgDQoNCiAgICANCg0KVGhpcyBpcyBpbmNvcnJlY3QuIEhhdmUgeW91ciBUQSBnZXQgaW4gdG91Y2ggd2l0aCBSZWJlY2NhIEZhcm95IGF0DQpDYXJuaXZhbCBDb3JwJ3MgSW52ZXN0b3IncyBSZWxhdGlvbnMgZGVwYXJ0bWVudC4gSXQgc2VlbXMgdGhhdCBzb21lDQpQcmluY2VzcyBwZW9wbGUgYXJlbid0IGZ1bGx5IGF3YXJlIG9mIHRoZSBjb3JyZWN0IHBvbGljeS4gVGhlIFNoYXJlaG9sZGVyDQpDcmVkaXQgZG9lcyBhcHBseSB0byBncm91cCBib29raW5ncy4NCg0KLS0NCkdlb3JnZSBpbiBQQQ0KDQpNaXJhY2xlIGluIE1heSAtDQpUaGUgTW90aGVyIG9mIEFsbCBHcm91cCBDcnVpc2VzIDIgLQ0KDQoNCg0KIHJpZWtlcjUubm9zcGFtLmUuLi5AaG90bWFpbC5jb20gDQogVHVlLCAyMiBGZWIgMjAwNSAxMDoxMDoyNyAtMDUwMCANCiBSZTogQ2Fybml2YWwgQ29ycCAtIFNoYXJlaG9sZGVyIERpc2NvdW50IG9uIFByaW5jZXNzIA0KDQoNCiAgICANCg0KR2VvcmdlIGhhcyBpdCByaWdodC4gSSBoYXZlIGJlZW4gb24gdHdvIGdyb3VwIGNydWlzZXMgYW5kIHJlY2VpdmVkIG15DQpzaGFyZWhvbGRlciBjcmVkaXQgZm9yIGJvdGguIChvbmUgQ2Fybml2YWwgQ3J1aXNlLCBvbmUgSEFMIGNydWlzZSkNCg0KQW55b25lIGhhdmUgYW4gaWRlYSBpZiB0aGV5IHdpbGwgcmVuZXcgdGhlIHNoYXJlaG9sZGVyIGNyZWRpdCBhcnJhbmdlbWVudD8NCkFzIGl0IGlzIG5vdywgaXQgZXhwaXJlcyBKdWx5IDEsIEkgdGhpbmsuDQoNCg0KDQogSm9obiAmYW1wOyBCZXZlcmx5IA0KIFR1ZSwgMjIgRmViIDIwMDUgMTA6MjM6MTkgLTA2MDAgDQogUmU6IENhcm5pdmFsIENvcnAgLSBTaGFyZWhvbGRlciBEaXNjb3VudCBvbiBQcmluY2VzcyANCg0KTGl6YSBNY0RhbmllbCBpbiBZaWVsZCBNYW5hZ2VtZW50IGRlbmllZCB1cyB0aGUgc2hhcmVob2xkZXINCmRpc2NvdW50IGxhc3QgVGhhbmtzZ2l2aW5nIGJlY2F1c2Ugb3VyIFRBIGhhZCBpbmNsdWRlZCB1cyBpbiBhIGdyb3VwLg0KDQpKb2huDQoNCiAgICANCg0KDQoNCiByaWVrZXI1Lm5vc3BhbS5lLi4uQGhvdG1haWwuY29tIA0KIFR1ZSwgMjIgRmViIDIwMDUgMTE6MjU6NTcgLTA1MDAgDQogUmU6IENhcm5pdmFsIENvcnAgLSBTaGFyZWhvbGRlciBEaXNjb3VudCBvbiBQcmluY2VzcyBGWUkgDQoNCiAgICANCg0KT25lIG90aGVyIGl0ZW0uLi5kaWQgeW91IGNvbnRhY3QgUHJpbmNlc3MgdG8gc3VibWl0IHlvdXIgc2hhcmVob2xkZXIgZG9jcz8NClRoZSBDYXJuaXZhbCBvZmZpY2UgaW4gRmxvcmlkYSBvbmx5IGFjY2VwdHMgZG9jcyBmb3IgQ2Fybml2YWwgY3J1aXNlcy4uLi50aGUNCm90aGVyIENhcm5pdmFsIHByb3BlcnRpZXMgaGF2ZSB0byBiZSBjb250YWN0ZWQgZGlyZWN0bHkgdG8gc3VibWl0DQpzaGFyZWhvbGRlciBkb2NzLiBFeDogSSBzZW50IG15IGRvY3MgdG8gSEFMIGluIFNlYXR0bGUgZm9yIG15IEhBTCBjcnVpc2UsDQpldmVuIHRob3VnaCBDYXJuaXZhbCBvd25zIEhBTC4NCg0KDQoNCiBCb2IgDQogVHVlLCAyMiBGZWIgMjAwNSAwODozMzowMyAtMDgwMCANCiBSZTogQ2Fybml2YWwgQ29ycCAtIFNoYXJlaG9sZGVyIERpc2NvdW50IG9uIFByaW5jZXNzIA0KDQpZb3UgY2FuIGdldCB0aGUgbGFyZ2VyIG9mIHRoZSBzaGlwYm9hcmQgY3JlZGl0cy4gVW50aWwgcmVjZW50bHkgeW91DQpjb3VsZCBjb21iaW5lIHRoZSBzdG9ja2hvbGRlciBjcmVkaXRzIHdpdGggdGhlIGNyZWRpdHMgZm9yIGJvb2tpbmcgb24NCmJvYXJkLCBidXQgbm90IHdpdGggdGhvc2UgZnJvbSB5b3VyIGFnZW50Lg0KDQpUaGUgbW9zdCByZWNlbnQgQ2Fybml2YWwgcmVwb3J0IHVuZGVyIFNoYXJlaG9sZGVyIEJlbmVmaXQgc2F5cywgIm5vdA0KY29tYmluYWJsZSB3aXRoIGFueSBvdGhlciBzaGlwYm9hcmQgb2ZmZXIiLg0KDQpUaGVyZWZvcmUgSSByZWNlbnRseSBzb2xkIG15IHN0b2NrLiAoTWFkZSBhIG5pY2UgcHJvZml0LikNCg0KT24gVHVlLCAyMiBGZWIgMjAwNSAwODoxMzoxMyBHTVQsICINCg0KICAgIA0KDQoNCg0KIHJpZWtlcjUubm9zcGFtLmUuLi5AaG90bWFpbC5jb20gDQogVHVlLCAyMiBGZWIgMjAwNSAxMTozOTo0NCAtMDUwMCANCiBSZTogQ2Fybml2YWwgQ29ycCAtIFNoYXJlaG9sZGVyIERpc2NvdW50IG9uIFByaW5jZXNzIA0KDQogICAgDQoNCk1lLCB0b28sIHRob3VnaCBJIGFtIG5vIHN0b2NrIGd1cnUuIEkgY2Fubm90IGZpZ3VyZSBhIHBsYWNlIHRvIHB1dCBteSAkJA0Kb3RoZXIgdGhhbiB0aGUgY3J1aXNlIGluZHVzdHJ5LiBSZXBvcnRzIEkgcmVhZCBzb3VuZCBwcmV0dHkgcm9zZXkgY29tcGFyZWQNCnRvIG90aGVyIHBhcnRzIG9mIHRoZSBlY29ub215Lg0KDQoNCg0KIFRvYmllIEdlcmJyYW5kdCANCiBUdWUsIDIyIEZlYiAyMDA1IDE2OjU0OjEyIEdNVCANCiBSZTogQ2Fybml2YWwgQ29ycCAtIFNoYXJlaG9sZGVyIERpc2NvdW50IG9uIFByaW5jZXNzIA0KDQpEb24ndCBnaXZlIHVwLiBJIGJlbGlldmUgdGhhdCBjbGF1c2UgYWN0dWFsbHkgcmVmZXJzIHRvIHByb21vIGNydWlzZXMgZXRjLg0KYW5kIG5vdCB0byBkaXNjb3VudHMsIG9yIHNoaXBib2FyZCBjcmVkaXRzIG9mZmVyZWQgYnkgeW91ciBUQS4NCg0KSSBoYXZlIGRvdWJsZWQgdXAgb24gc2hhcmVob2xkZXIgY3JlZGl0cyBvbiBib3RoIENhcm5pdmFsIENvcnAuIGNydWlzZXMgYW5kDQpSQ0wgY3J1aXNlcy4gTWF5YmUgeW91IG5lZWQgYSBkaWZmZXJlbnQgdHJhdmVsIGFnZW50Lg0KDQpUb2JpZSBvbiBhbiBJc2xhbmQgaW4gdGhlIFBhY2lmaWMNCg0KICAgIA0KDQoNCg0KPC9URVhUPg0KDQoNCg0KPC9ET0M+</body>
+  </SimpleSignal>
+  <AnchorSet containedType="text-point">
+    <Anchor id="Anc7" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">1185</Parameter>
+      <SignalRef xlink:href="#Sig2" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc8" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">1187</Parameter>
+      <SignalRef xlink:href="#Sig2" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc9" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">2164</Parameter>
+      <SignalRef xlink:href="#Sig2" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc10" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">2171</Parameter>
+      <SignalRef xlink:href="#Sig2" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc11" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">2333</Parameter>
+      <SignalRef xlink:href="#Sig2" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc12" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">2340</Parameter>
+      <SignalRef xlink:href="#Sig2" role="text" xlink:type="simple"/>
+    </Anchor>
+  </AnchorSet>
+  <RegionSet containedType="link-subordinates"/>
+  <RegionSet containedType="path-subordinates"/>
+  <RegionSet containedType="text-extent">
+    <Region id="Reg3" type="text-extent">
+      <AnchorRef xlink:href="#Anc8" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc7" role="start" xlink:type="simple"/>
+    </Region>
+    <Region id="Reg4" type="text-extent">
+      <AnchorRef xlink:href="#Anc10" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc9" role="start" xlink:type="simple"/>
+    </Region>
+    <Region id="Reg5" type="text-extent">
+      <AnchorRef xlink:href="#Anc12" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc11" role="start" xlink:type="simple"/>
+    </Region>
+  </RegionSet>
+  <Analysis id="Ana7" type="link-extent-set" role="link-extent-set">
+    <AnnotationSet containedType="link-extent"/>
+  </Analysis>
+  <Analysis id="Ana8" type="link-set" role="link-set">
+    <AnnotationSet containedType="LINK"/>
+  </Analysis>
+  <Analysis id="Ana9" type="path-extent-set" role="path-extent-set">
+    <AnnotationSet containedType="path-extent"/>
+  </Analysis>
+  <Analysis id="Ana10" type="path-set" role="path-set">
+    <AnnotationSet containedType="PATH"/>
+  </Analysis>
+  <Analysis id="Ana11" type="place-set" role="place-set">
+    <AnnotationSet containedType="PLACE">
+      <Annotation id="Ann3" type="PLACE">
+        <RegionRef xlink:href="#Reg3" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="CTV"/>
+          <Parameter type="string" unit="NULL_UNIT" role="comment"/>
+          <Parameter type="string" unit="NULL_UNIT" role="continent"/>
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="county"/>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:1780798</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-1</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="latLong">40.750&#176;N 77.750&#176;W</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="mod"/>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="state">PA</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="type">CIVIL</Parameter>
+        </Content>
+      </Annotation>
+      <Annotation id="Ann4" type="PLACE">
+        <RegionRef xlink:href="#Reg4" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="CTV"/>
+          <Parameter type="string" unit="NULL_UNIT" role="comment"/>
+          <Parameter type="string" unit="NULL_UNIT" role="continent"/>
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="county"/>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:295478</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-2</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="latLong">28.750&#176;N 82.500&#176;W</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="mod"/>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="state">FL</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="type">CIVIL</Parameter>
+        </Content>
+      </Annotation>
+      <Annotation id="Ann5" type="PLACE">
+        <RegionRef xlink:href="#Reg5" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="CTV"/>
+          <Parameter type="string" unit="NULL_UNIT" role="comment"/>
+          <Parameter type="string" unit="NULL_UNIT" role="continent"/>
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="county"/>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:1513650</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-3</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="latLong">47.606&#176;N 122.331&#176;W</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="mod"/>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="state">WA</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="type">PPL</Parameter>
+        </Content>
+      </Annotation>
+    </AnnotationSet>
+  </Analysis>
+  <Analysis id="Ana12" type="signal-set" role="signal-set">
+    <AnnotationSet containedType="SIGNAL"/>
+  </Analysis>
+</Corpus>

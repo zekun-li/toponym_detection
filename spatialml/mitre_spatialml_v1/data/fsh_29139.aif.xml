@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE Corpus SYSTEM "http://www.nist.gov/speech/atlas/aif.dtd">
+
+<Corpus xmlns="http://www.nist.gov/speech/atlas" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://www.ukoln.ac.uk/interop-focus/activities/z3950/int_profile/bath/draft/stable1.html" id="Cor5" AIFVersion="1.1" type="spatialml" schemeLocation="http://callisto.mitre.org/maia/spatialml.maia.xml">
+  <Metadata/>
+  <SimpleSignal id="Sig5" type="text" mimeClass="text" mimeType="sgml" xlink:href="fsh_29139.sgm" encoding="UTF-8" track="ALL" xlink:type="simple">
+    <body encoding="Base64">PERPQz4NCg0KIGZzaF8yOTEzOSANCiBDT05WRVJTQVRJT04gDQogMjAwNDExMzAtMTg6MjA6NDUgDQoNCjxURVhUPg0KDQoNCiBwcm9tcHQgDQoyLiBXb3JrcGxhY2UgQ3VsdHVyZSBEZXNjcmliZSB0aGUgb3JnYW5pemF0aW9uYWwgc3RydWN0dXJlIG9mIHlvdXINCmN1cnJlbnQgb3IgZm9ybWVyIHdvcmtwbGFjZS4gSG93IG1hbnkgcGVvcGxlIHdvcmsgdGhlcmUsIGFuZCB3aGF0IGlzDQp0aGUgaGllcmFyY2h5PyAgV2hvIHdvcmtzIGZvciB3aG9tPyAgV2hhdCBraW5kIG9mIGpvYiBkbyB5b3UgaGF2ZT8NCkRlc2NyaWJlIHNvbWUgb2YgdGhlIHBlb3BsZSB0aGF0IHlvdSB3b3JrIHdpdGggYW5kIHRoZSBqb2JzIHRoZXkgZG8uDQpEbyB5b3UgdGhpbmsgeW91ciBjb21wYW55IGlzIHdlbGwtcnVuPyAgSWYgbm90LCB3aGF0IGNvdWxkIG1ha2UgaXQNCmJldHRlcj8NCg0KDQogQiANCkFuZCB0aGVuIHdlJ3JlIG5vdCBzdXBwb3NlZCB0byBhbnN3ZXIgaXQuIFdlbGwsIHVtIGFsbCBJIGNhbiBzYXkgYWJvdXQNCmJpZyBjb3Jwb3JhdGlvbnMgLS0gaXMgdGhlcmUncyB0b28gbWFueSAtLSBjaGllZnMuDQoNCg0KIEEgDQpZZWFoLg0KDQoNCiBCIA0KQWx3YXlzIHRvbyBtYW55IGNoaWVmcy4gQW5kIHdpdGggdGhlIGNvbnN0YW50IG1lcmdpbmcgd2l0aCBvdGhlcg0KYmFua3MsDQoNCg0KIEEgDQpZZWFoLg0KDQoNCiBCIA0KdWdoIGVyci4NCg0KDQogQSANCk9yIHdlbGwsIGFuZCB0aGVuIHlvdSB0aGluayBvZiB0aGluZ3MgbGlrZSBFbnJvbi4NCg0KDQogQiANCk9oIHllYWguDQoNCg0KIEEgDQpJIG1lYW4sICB5b3UgZ290IC0tIGNvcnJ1cHRlZCBjaGllZnMgdG9vLg0KDQoNCiBCIA0KWWVhaCwgdGhleSdyZSBldmVyeXdoZXJlLiBUaGUgdWggfkNFTyB3ZSBoYWQgYmVmb3JlIHdlIG1lcmdlZCB3aXRoDQpOYXRpb25zIEJhbmsgLS0gaGUgdWggLS0gaGUgYWJvdXQgcmFuIGFzIGludG8gdGhlIGdyb3VuZCB3aXRoIHNvbWUgaGVkZ2UNCmZ1bmRzIHRoYXQgaGUgaGFkIGdvbmUgaW50by4NCg0KDQogQSANClVoLWh1aC4NCg0KDQogQiANCkFuZCB0aGVuLCBhbmQgdGhlbiB3aGVuIHdlIGZpbmlzaCBtZXJnaW5nLCB0aGV5IGdpdmUgdGhlIGd1eSBzb21ldGhpbmcNCmxpa2UgYSB0d2VudHktZml2ZSBtaWxsaW9uIGRvbGxhciBwYWNrYWdlLCBhbmQgaWYgaGUgZGllcywgaGlzIGZhbWlseQ0Kc3RpbGwgZ2V0cyBhbGwgdGhlIG1vbmV5Lg0KDQoNCiBBIA0KTm8gd2F5Lg0KDQoNCiBCIA0KWWVhaC4gIE5vLiAgVGhleSB3b3VsZG4ndCBkbyBhbnl0aGluZyBsaWtlIHRoYXQgZm9yIG1lLiAgSSd2ZSBiZWVuDQp0aGVyZSBmb3IgYSBsb25nIHRpbWUsIEkgdXNlZCB0byBiZSBhIG1hbmFnZXIgdGhlcmUuIFRoZXJlJ3Mgbm8gd2F5DQpJJ2QgZ2V0IHRoYXQga2luZCBvZiBhIC0tIG9oLiAgU28sIHllYWgsIG9uY2UgeW91IGdldCB3YXkgdXAgdGhlcmUsDQp1bmxlc3MgeW91J3JlIHByb3NlY3V0ZWQsICB5b3UgeW91IGp1c3QgLS0gYXJlIGNvbnN0YW50bHkgcm9sbGluZyBpbiB0aGUNCmRvdWdoLg0KDQoNCiBBIA0KWWVhaC4NCg0KDQogQiANCkFuZCB0aGF0IHdhcyBhIGxvbmcgdGltZSBhZ28sIGFuZCB3ZSBqdXN0IGMtIG9oLCBhbGwgdGhhdCBtb25leSwgIGZvcg0KanVzdCBhYm91dCBiYW5rcnVwdGluZyB1cy4gIFRoYXQgaXMgY3JhenkuICBJIHRoaW5rIHRoYXQgd2FzIGluIG5pbmV0eQ0Kc2V2ZW4gb3IgZWlnaHQNCg0KDQogQSANClllYWguDQoNCg0KIEIgDQpJIHRoaW5rIHdlIG1lcmdlZCBpbiBuaW5ldHktZWlnaHQuICBTbywgeWVhaCwgQmFuayBvZiBBbWVyaWNhJ3MNCmV2ZXJ5d2hlcmUuICBBbmQgdW0gLS0gTW0gLS0gR29zaCBJIGNhbid0IHRoaW5rIG9mIGFueXRoaW5nIGVsc2UgdG8gc2F5DQphYm91dCB0aGVtLiAgSSBkb24ndCBrbm93LiAgVGhleSdyZSBhbGwgcmlnaHQuIFRoZXkgaGF2ZSBnb29kDQpiZW5lZml0cy4NCg0KDQogQSANClllYWguDQoNCg0KIEIgDQpOb3QgZ29vZCBwYXkuDQoNCg0KIEEgDQpZZWFoLiAgWWVhaCBJIEknbSBub3QgcmVhbGx5IGZhbWlsaWFyIHdpdGggdGhlIHdvcmtpbmcgd29ybGQgdGhhdA0KbXVjaC4gIFNvLCBJIG1lYW4sIHdpdGggbXkgcGFydC10aW1lIGpvYiwgaXQncyBhIGxvdCBpdCdzIHJlYWxseSBnb29kDQpmb3IgYSBzdHVkZW50LCBiZWNhdXNlIEkgb25seSB3b3JrIHVoIHR3byBob3VycyBhIG5pZ2h0Lg0KDQoNCiBCIA0KT2ggdGhhdCdzIGdvb2QuDQoNCg0KIEEgDQpTbywgeWVhaCwgYW5kIHRoZW4gaXQncyBwcmV0dHkgZmxleGlibGUuICBMaWtlIHVoIC0tIHVoIEknbSBwcmV0dHkgYnVzeQ0Kd2l0aCBvdGhlciwgeW91IGtub3cgLS0gc3R1ZGVudCBvcmdhbml6YXRpb25zLCBhbmQgaGFuZ2luZyBvdXQgd2l0aA0KZnJpZW5kcyBhbmQgc3R1ZmYsIHNvIEkgZG9uJ3QgaGF2ZSB0byB3b3JrIG9uIHRoZSB3ZWVrZW5kcywgYW5kIHRoZW4gSQ0KY2FuIHRha2Ugb2ZmIHNvbWV0aW1lcy4gU28uDQoNCg0KIEIgDQpZZWFoLiAgVGhhdCdzIGdvb2QuDQoNCg0KIEEgDQpTbyBhIHByZXR0eSBnb29kIGRlYWwsIGFuZCB0aGUgY29vbCB0aGluZyBhYm91dCBpcyBsaWtlIC0tIGV2ZXJ5Ym9keSBhdA0Kd29yayBpcyByZWFsbHkgZnJpZW5kbHksDQoNCg0KIEIgDQpZZWFoLCB0aGF0J3MgZ29vZC4NCg0KDQogQSANCmFuZCB1aCBJIHRoaW5rIHJlYWxseSB0aGF0IHdoYXQgYnJpbmdzIHRoYXQgb24gaXMgb3VyIGJvc3MuIExpa2UgaGUncw0KanVzdCBhIHJlYWxseSBuaWNlIGd1eSwgYW5kIC0tIGhlJ3MgcHJldHR5IGxhaWQgYmFjay4gIFNvLg0KDQoNCiBCIA0KVGhhdCBjb21lcyBpbiBoYW5keS4NCg0KDQogQSANClllYWguDQoNCg0KIEIgDQpHb3QgdG8gaGF2ZSBhIGdvb2QgYm9zcy4NCg0KDQogQSANClllYWguDQoNCg0KIEIgDQpJIGRvbid0IGtub3cgaWYgdGhlcmUncyBhbnkgcHVkZGluZyBpbiB0aGUgcmVmcmlnZXJhdG9yIGhvbmV5LiBZb3UgZ290DQp0byBnbyAtLSBJIEkgdGhpbmsgeW91IGF0ZSBpdCBhbGwsIGJ1dCBnbyBsb29rIGFyb3VuZCAtLSBJIGtub3cgdGhlcmUncw0Kc3RpbGwgc29tZSBtb3JlIHVtIFRyaXggeW9ndXJ0LiAgQW5kIEknbGwgYnV5IHB1ZGRpbmcgb24gRnJpZGF5LiAgSGUncw0KYWxsIHVwc2V0IHdpdGggbWUgY2F1c2UgdGhlcmUncyBubyBwdWRkaW5nLiAgWWVhaCwgSSd2ZSBoYWQgbWFueSBtYW55DQpkaWZmZXJlbnQga2luZHMgb2YgbWFuYWdlcnMsIGFuZCB3aGVuIHRoZXkncmUgbGFpZCBiYWNrIGRvbid0IG1pY3JvLQ0KbWFuYWdlIC0tIHlvdSBrbm93LCB5b3UgZGVmaW5pdGVseSwgIHdvcmsgaGFyZGVyIGZvciB0aGVtLCBhbmQgZG8gYQ0KYmV0dGVyIGpvYiBhbmQNCg0KDQogQSANClllYWguIERpZCB5b3UgZXZlciBzZWUgdGhlIHVoIG1vdmllIE9mZmljZSBTcGFjZT8NCg0KDQogQiANCnllcywgSSBkaWQuDQoNCg0KIEEgDQpZZWFoLg0KDQoNCiBCIA0KWWVzIEkgZGlkLiBJdCB0b29rIG1lIGEgc2Vjb25kLCBidXQgSSBzdXJlIGRpZC4NCg0KDQogQSANClllYWguICBJIGFsd2F5cyB0aGluayBhYm91dCB0aGF0IGxpa2UgLS0gb3IgYSBsb3Qgb2YgSSB0aGluayBjb2xsZWdlDQpzdHVkZW50cyB0aGluayBhYm91dCB0aGF0IGxpa2Ugd2l0aCBzb21lIG9mZmljZSBqb2JzLCB5b3Uga25vdz8NCg0KDQogQiANClllYWguICBJdCdzIHVoDQoNCg0KIEEgDQpTby4gIEl0J3Mga2luZCBvZiBsaWtlLCB0aGF0J3MgdGhlIGpvYiB0aGF0IHRoZXkncmUgdC0gZXZlcnlvbmUncw0KdHJ5aW5nIHRvIHN0YXkgYXdheSBmcm9tLg0KDQoNCiBCIA0KWWVhaC4gIEkgZG9uJ3QgdGhpbmsgdGhleSdyZSBxdWl0ZSAtLSBUaGV5IHRoZXkndmUgZ290dGVuIGJldHRlci4gSSBrbm93DQp0aGUgYmlnZ2VyIGNvbXBhbmllcyBoYXZlIHRyaWVkIHRvIC0tIHN0YXkgYXdheSBmcm9tIHRoYXQsIGNhdXNlIHVoIC0tIFRoZQ0KdGhlIHRoYXQgZG9lcyB3ZWFyIHlvdSBvdXQuIEkgcmVtZW1iZXIgQmFuayBvZiBBbWVyaWNhIHdhcyAtLSBraW5kIG9mDQpsaWtlIHRoYXQgaW4gdGhlIGRlcGFydG1lbnQgSSB1c2VkIHRvIHdvcmsgaW4sIHllYXJzIGFuZCB5ZWFycyBhZ28uDQoNCg0KIEEgDQpVaC1odWguDQoNCg0KIEIgDQpPaCBteSBHb2QuICBCb3JpbmcgbG9va2luZyB3YWxscywgYm9yaW5nIHBlb3BsZSwgYm9yaW5nIGpvYi4NCg0KDQogQSANClllYWguDQoNCg0KIEIgDQpJdCBpdCBkcmFpbmVkIHRoZSBsaWZlIG91dCBvZiB5b3Ugd2hlbmV2ZXIgd2UgaGFkIHRvIGdvIHRvIHdvcmsuIEl0DQpqdXN0IC0tIHN1Y2tlZC4NCg0KDQogQSANClllYWguDQoNCg0KIEIgDQpCdXQgdGhleSB0cmllZCB0byBtYWtlIGl0IG1vcmUgZW50ZXJ0YWluaW5nLiBJIHRoaW5rIG1vcmUgY29tcGFuaWVzDQphcmUgZ29pbmcgZm9yIHRoZSB1aCAtLSB5b3Uga25vdywgZW1wbG95ZWUgc2F0aXNmYWN0aW9uLiAgRmluYWxseS4NCg0KDQogQSANClVoLWh1aC4NCg0KDQogQiANClRoLSB0aGF0IHdhcyB0aGUgQmFuaydzIGJpZyBkZWFsIGxhc3QgeWVhciwgd2FzIHVoIG5pbmV0eSBwZXJjZW50DQphc3NvY2lhdGUgc2F0aXNmYWN0aW9uLiAgQW5kIHRoZXkgd2VyZSBhbGwgaGFwcHkgd2hlbiB0aGV5IGZpbmFsbHkgZ290DQp0aGVyZS4gIEJ1dCB3ZSBkaWRuJ3QgZ2V0IGFueXRoaW5nIGZvciBpdC4gIFRoZXkgZGlkbid0IGxpa2UgZ2l2ZQ0KZXZlcnlib2R5IGJvbnVzZXMgb3IgYW55dGhpbmcuICBTaGVlc2guICBUaGV5IGJlY2F1c2UgdGhleSBnb3Qgc29tZQ0KYmV0dGVyIGluc3VyYW5jZSBwb2xpY2llcyBhbmQgc29tZSBiZXR0ZXIgLS0gYm9udXNlcyB0aGF0IHRoZXkgcGFpZCBvdXQNCmF0IHRoZSBlbmQgb2YgdGhlIG1vbnRoIGFuZCAtLSB5b3Uga25vdywgaXQgd2FzIGEgbGl0dGxlIGJldHRlci4NCg0KDQogQSANClllYWgsIHdlbGwsIHlvdSBnb3QgdG8gbWFrZSB5b3VyIGVtcGxveWVlcyBoYXBweSwgb3RoZXJ3aXNlIHlvdSdyZSBub3QNCmdvaW5nIHRvIGNvbWUgb3V0IHdpdGggdGhlIG5leHQgcHJvZHVjdC4gIFlvdSBrbm93Pw0KDQoNCiBCIA0KVGhhdCdzIHJpZ2h0LiBUaGV5J3JlIG5vdCBnb2luZyB0byB3b3JrIHNvIGhhcmQgZm9yIHlhLiBUaGV5J3JlIGdvaW5nDQp0byBjYWxsIG91dCBzaWNrDQoNCg0KIEEgDQpZZXAuDQoNCg0KIEIgDQp0aGV5J3JlIGdvaW5nIHRvIGRvIC0tIHlvdSBrbm93LCBoYWxmLWFzc2VkIGpvYi4gIFRoYXQncyBleGFjdGx5IHRoZSB3YXkNCml0IGlzLg0KDQoNCiBBIA0KSXQncyBqdXN0IGJhc2ljIG1hbmFnZW1lbnQuDQoNCg0KIEIgDQpNaG0uIEV4YWN0bHkuICBNaWtleSBob2xkIG9uLCBJJ2xsIGJlIG9mZiB0aGUgcGhvbmUgaW4gYSBtaW51dGUuDQoNCg0KIEEgDQooKFN1cmUpKQ0KDQoNCiBCIA0KU2hlZXNoLg0KDQoNCiBBIA0KWWVhaC4gIEkgYWxzbywgSSB3b3JrZWQgZm9yIHVoLCBsaWtlIGtpbmQgb2YgbGlrZSBhIFN1YndheSwgdWggQXRsYW50YQ0KQnJlYWQgQ29tcGFueS4NCg0KDQogQiANClllYWguDQoNCg0KIEEgDQpTbywgYW5kIG1hbiwgb2ggdGhpcyBpcyBmb3IgYSBzdW1tZXIgam9iLCBhbmQgbXkgYm9zcyB3YXMgbGlrZSAtLSB3ZWxsDQpoZSB3YXMgYWxzbyB0aGUgb3duZXINCg0KPC9URVhUPg0KDQoNCjwvRE9DPg==</body>
+  </SimpleSignal>
+  <AnchorSet containedType="text-point">
+    <Anchor id="Anc103" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">1779</Parameter>
+      <SignalRef xlink:href="#Sig5" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc104" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">1786</Parameter>
+      <SignalRef xlink:href="#Sig5" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc105" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">3951</Parameter>
+      <SignalRef xlink:href="#Sig5" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc106" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">3958</Parameter>
+      <SignalRef xlink:href="#Sig5" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc107" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">5407</Parameter>
+      <SignalRef xlink:href="#Sig5" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc108" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">5414</Parameter>
+      <SignalRef xlink:href="#Sig5" role="text" xlink:type="simple"/>
+    </Anchor>
+  </AnchorSet>
+  <RegionSet containedType="link-subordinates"/>
+  <RegionSet containedType="path-subordinates"/>
+  <RegionSet containedType="text-extent">
+    <Region id="Reg56" type="text-extent">
+      <AnchorRef xlink:href="#Anc104" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc103" role="start" xlink:type="simple"/>
+    </Region>
+    <Region id="Reg57" type="text-extent">
+      <AnchorRef xlink:href="#Anc106" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc105" role="start" xlink:type="simple"/>
+    </Region>
+    <Region id="Reg58" type="text-extent">
+      <AnchorRef xlink:href="#Anc108" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc107" role="start" xlink:type="simple"/>
+    </Region>
+  </RegionSet>
+  <Analysis id="Ana25" type="link-extent-set" role="link-extent-set">
+    <AnnotationSet containedType="link-extent"/>
+  </Analysis>
+  <Analysis id="Ana26" type="link-set" role="link-set">
+    <AnnotationSet containedType="LINK"/>
+  </Analysis>
+  <Analysis id="Ana27" type="path-extent-set" role="path-extent-set">
+    <AnnotationSet containedType="path-extent"/>
+  </Analysis>
+  <Analysis id="Ana28" type="path-set" role="path-set">
+    <AnnotationSet containedType="PATH"/>
+  </Analysis>
+  <Analysis id="Ana29" type="place-set" role="place-set">
+    <AnnotationSet containedType="PLACE">
+      <Annotation id="Ann56" type="PLACE">
+        <RegionRef xlink:href="#Reg56" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:840</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-1</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="type">COUNTRY</Parameter>
+        </Content>
+      </Annotation>
+      <Annotation id="Ann57" type="PLACE">
+        <RegionRef xlink:href="#Reg57" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:840</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-2</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="type">COUNTRY</Parameter>
+        </Content>
+      </Annotation>
+      <Annotation id="Ann58" type="PLACE">
+        <RegionRef xlink:href="#Reg58" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:352615</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-3</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="latLong">33.749&#176;N 84.388&#176;W</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="state">GA</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="type">PPL</Parameter>
+        </Content>
+      </Annotation>
+    </AnnotationSet>
+  </Analysis>
+  <Analysis id="Ana30" type="signal-set" role="signal-set">
+    <AnnotationSet containedType="SIGNAL"/>
+  </Analysis>
+</Corpus>

@@ -1,0 +1,21 @@
+<DOC>
+
+ CNNHL_ENG_20030424_123502.25 
+ NEWS STORY 
+ 2003-04-24 13:52:32 
+
+<TEXT>
+
+
+police in <PLACE country="US" form="NAM" gazref="IGDB:1780798 USGS:1779798" id="Pl-3" latLong="40.750°N 77.750°W" state="PA" type="CIVIL">pennsylvania</PLACE> a student fatally shot a principal before
+killing himself this morning. it happened in the cafeteria of red lion
+area junior high school <SIGNAL id="S-1">about 30 miles</SIGNAL> <SIGNAL id="S-2">southeast</SIGNAL> of <PLACE country="US" form="NAM" id="Pl-2" state="PA" type="PPL">harrisburg</PLACE>. it
+happened at 7:30 this morning. students then were moved across the
+street to a senior high school.
+
+</TEXT>
+
+
+ 2003-04-24 13:52:46 
+
+<PATH direction="SE" distance="30:mi" id="Pa-1" signals="S-1 S-2" source="Pl-2"/></DOC>

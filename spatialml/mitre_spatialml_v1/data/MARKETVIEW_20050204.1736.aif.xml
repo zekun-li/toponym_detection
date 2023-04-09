@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE Corpus SYSTEM "http://www.nist.gov/speech/atlas/aif.dtd">
+
+<Corpus xmlns="http://www.nist.gov/speech/atlas" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://www.ukoln.ac.uk/interop-focus/activities/z3950/int_profile/bath/draft/stable1.html" id="Cor1" AIFVersion="1.1" type="spatialml" schemeLocation="http://callisto.mitre.org/maia/spatialml.maia.xml">
+  <Metadata/>
+  <SimpleSignal id="Sig1" type="text" mimeClass="text" mimeType="sgml" xlink:href="MARKETVIEW_20050204.1736.sgm" encoding="UTF-8" track="ALL" xlink:type="simple">
+    <body encoding="Base64">PERPQz4NCg0KIE1BUktFVFZJRVdfMjAwNTAyMDQuMTczNiANCiBXRUIgVEVYVCANCiAyMDA1LTAyLTA0VDE3OjM2OjAwIA0KDQoNCk5ZU0UgU2VsbGluZyBPdXQ/IFRoYW5rIEdvZCENCg0KPFRFWFQ+DQoNCg0KIEJ5cm5lIA0KIDIwMDUtMDItMDRUMTc6MzY6MDAgDQpUaGUgbWFya2V0IGRpZG4ndCBoYXZlIGFuIGludGVsbGlnZW50IHdheSB0byByZWFjdCB0byB0aGlzIG5ld3MNCihleGNlcHQgdG8gc2VuZCBOQVNEQVEgLCB3aGljaCBJJ3ZlIGJlZW4gY2hlZXJsZWFkaW5nIGZvciBhIHdoaWxlLCB1cA0KMTAuNDYlIGluIHN5bXBhdGh5KSwgYnV0IHRoZSBOZXcgWW9yayBTdG9jayBFeGNoYW5nZSBtYXkgYWN0dWFsbHkNCmNvbnZlcnQgdG8gYSBmb3ItcHJvZml0IGVudGl0eS4gSXQncyBmYXIgdG9vIGNsdWJieSBub3csIGFuZCB3aGlsZSB0aGlzDQptb3ZlIHdvdWxkbid0IGdldCByaWQgb2YgbmluZS1maWd1cmUgcGF5ZGF5cywgaXQgbWlnaHQgZW5zdXJlIHRoYXQgdGhleQ0Kb25seSBoYXBwZW4gd2hlbiB3ZWxsLWRlc2VydmVkLiBOb3QgdG8gbmFtZSBuYW1lcyBvciBhbnl0aGluZy4gVGhlDQpleGNoYW5nZSBuZWVkcyB0aGlzOiBpdCdzIG9zc2lmaWVkLCB0aGUgcmVhbCBvd25lcnMgLS0gaG9sZGVycyBvZg0KZXhjaGFuZ2Ugc2VhdHMgLS0gaGF2ZSBzZWVuIHRoZWlyIGludmVzdG1lbnQgbG9zZSA0MCUgaW4gYSB5ZWFyICh0aG91Z2gNCnRoZXkgY2FuIHN0aWxsIGVhcm4gYW4gaW5jb21lIGZyb20gaXQgdG8gb2Zmc2V0IHRoZSBsb3NzZXMpLCBhbmQgdGhlDQpOQVNEQVEgaGFzIHVuZGVyY3V0IHRoZWlyIHRyYWRpdGlvbmFsIGRvbWluYW5jZSBhbW9uZyBncm93dGgNCmNvbXBhbmllcy10dXJuZWQtYmx1ZSBjaGlwcy4gSGVjaywgdGhleSdyZSBkb3duIHRvIGp1c3Qgb3ZlciBoYWxmIG9mDQp0aGVpciBzaW5nbGUtbGV0dGVyIHN5bWJvbHMgISBJdCdzIGEgZHlpbmcgb3JnYW5pemF0aW9uLCBhbmQgdGhpcyB3aWxsDQpiZSBqdXN0IHRoZSBqb2x0IGl0IG5lZWRzIGZvciBhbm90aGVyIGNvdXBsZSBkZWNhZGVzIG9mIHNvbW5hbWJ1bGFudA0Kc3RhZ2dlcmluZyBiZWZvcmUgYmVpbmcgdWx0aW1hdGVseSByZXBsYWNlZCBieSBmYXIgbW9yZSBlZmZpY2llbnQNCmNvbXBhbmllcy4NCg0KRnVsbCBEaXNjbG9zdXJlOiAiRmFyIG1vcmUgZWZmaWNpZW50IGNvbXBhbmllcywiIGJhc2ljYWxseSBtZWFucyAiVGhlDQpOQVNEQVEsIiBzbyB0YWtlIGl0IHdpdGggYSBnaWdhbnRpYyBncmFpbiBvZiBzYWx0Lg0KDQpTZWNvbmRhcnkgRGlzY2xvc3VyZTogWW91IGNhbiB0YWtlIHRoZSBhYm92ZSBhdCBmYWNlIHZhbHVlOyBJIGRvbid0DQpvd24gc3RvY2sgaW4gYSBzYWx0IGNvbXBhbnkuDQoNCg0KIG11Y2tkb2cgDQogPz8/Py0/Py0/P1QxOToxNTowMCANCkV2ZXJ5dGhpbmcgY29tZXMgd2l0aCBsb3RzIG9mIGdyYWlucyBvZiBzYWx0LiBFdmVyIHJlYWQgdGhlIGxhYmVsIG9uDQphIHNvdXAgY2FuPyBJdCdzIGFtYXppbmcgdGhleSBjYW4gc3F1ZWV6ZSBhbnkgbGlxdWlkIGluIHRoZXJlLiBBbmQgaWYNCnlvdSBjcnVtYmxlIHVwIGNyYWNrZXJzIGluIHRoZXJlLCB0aGF0J3MgZXZlbiBtb3JlIHNhbHQuDQoNCldlbGwsIEknbSBub3Qgc3VyZSBob3cgSSB0YWtlIHRoZSBOWVNFIG5ld3MuIEkgdGhpbmsgSSBhZ3JlZSB3aXRoIHlvdQ0Kb24gdGhlIHdyZWNrbGVzcyBjb21wZW5zYXRpb24gdGhpbmcuIEkgYWxzbyB0aGluayB0aGF0IFNlYXJzLUttYXJ0DQpzaG91bGQgY29tZSB1cCB3aXRoIGEgbmV3IG5hbWUgYWx0b2dldGhlci4gVGhvc2Ugc3RvcmVzIGFyZSBkZWFkem9uZXMsDQphbmQgdGhleSBuZWVkIHNvbWUgYnV6ei4gQ2hhbmdlIHRoZSBuYW1lcywgcGFpbnQgdGhlIGJ1aWxkaW5ncywNCnJlb3JnYW5pemUgYSBsaXR0bGUsIGFuZCBoaXJlIHN0cmlwcGVycyBmb3IgY2FzaGllcnMuIEknbSBub3Qgc3VyZSBob3cNCnRoYXQgbGFzdCBpZGVhIGdvdCBpbiB0aGVyZS4gTXVzdCBiZSBmcmlkYXkuDQoNCjwvVEVYVD4NCg0KDQo8L0RPQz4=</body>
+  </SimpleSignal>
+  <AnchorSet containedType="text-point">
+    <Anchor id="Anc2" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">306</Parameter>
+      <SignalRef xlink:href="#Sig1" role="text" xlink:type="simple"/>
+    </Anchor>
+    <Anchor id="Anc3" type="text-point">
+      <Parameter type="char" unit="NULL_UNIT" role="char">314</Parameter>
+      <SignalRef xlink:href="#Sig1" role="text" xlink:type="simple"/>
+    </Anchor>
+  </AnchorSet>
+  <RegionSet containedType="link-subordinates"/>
+  <RegionSet containedType="path-subordinates"/>
+  <RegionSet containedType="text-extent">
+    <Region id="Reg1" type="text-extent">
+      <AnchorRef xlink:href="#Anc3" role="end" xlink:type="simple"/>
+      <AnchorRef xlink:href="#Anc2" role="start" xlink:type="simple"/>
+    </Region>
+  </RegionSet>
+  <Analysis id="Ana1" type="link-extent-set" role="link-extent-set">
+    <AnnotationSet containedType="link-extent"/>
+  </Analysis>
+  <Analysis id="Ana2" type="link-set" role="link-set">
+    <AnnotationSet containedType="LINK"/>
+  </Analysis>
+  <Analysis id="Ana3" type="path-extent-set" role="path-extent-set">
+    <AnnotationSet containedType="path-extent"/>
+  </Analysis>
+  <Analysis id="Ana4" type="path-set" role="path-set">
+    <AnnotationSet containedType="PATH"/>
+  </Analysis>
+  <Analysis id="Ana5" type="place-set" role="place-set">
+    <AnnotationSet containedType="PLACE">
+      <Annotation id="Ann1" type="PLACE">
+        <RegionRef xlink:href="#Reg1" role="text-extent" xlink:type="simple"/>
+        <Content type="place-content">
+          <Parameter type="string" unit="NULL_UNIT" role="country">US</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="description"/>
+          <Parameter type="string" unit="NULL_UNIT" role="form">NAM</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="gazref">IGDB:976772</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="id">Pl-1</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="latLong">40.714&#176;N 74.006&#176;W</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="nonLocUse"/>
+          <Parameter type="string" unit="NULL_UNIT" role="state">NY</Parameter>
+          <Parameter type="string" unit="NULL_UNIT" role="type">PPL</Parameter>
+        </Content>
+      </Annotation>
+    </AnnotationSet>
+  </Analysis>
+  <Analysis id="Ana6" type="signal-set" role="signal-set">
+    <AnnotationSet containedType="SIGNAL"/>
+  </Analysis>
+</Corpus>
