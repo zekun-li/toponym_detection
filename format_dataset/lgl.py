@@ -22,12 +22,14 @@ for article in soup.find_all('article'):
     ret_dict['sentence'] = text 
     ret_dict['toponyms'] = []
     for toponym in toponyms:
-       
+        
+        
         start_pos = int(toponym.start.text)
         end_pos = int(toponym.end.text)
         phrase = toponym.phrase.text
-        ret_dict['toponyms'].append({'text':phrase, 'start':start_pos, 'end':end_pos})
         gaztag = toponym.gaztag
+
+        topo_dict = {'text':phrase, 'start':start_pos, 'end':end_pos}
         if gaztag is not None:
             geonameid = gaztag.get('geonameid')
 
@@ -41,14 +43,20 @@ for article in soup.find_all('article'):
             if gaztag.admin1 is not None:
                 admin1_geonameid = gaztag.admin1.get('geonameid')
                 admin1_name = gaztag.admin1.text
+
+            topo_dict['geoname_id'] = geonameid
+            topo_dict['lat'] = lat 
+            topo_dict['lon'] = lon
         else:
             count_nongaz += 1 
 
+        ret_dict['toponyms'].append(topo_dict) 
+
     ret_dict_list.append(ret_dict) 
+
+print('count_nongaz:', count_nongaz)
 
 with open(out_file_path, 'w',  encoding='utf8') as f:
     json.dump(ret_dict_list, f, indent = 2, ensure_ascii = False)
         
 
-        
-print(count_nongaz)
